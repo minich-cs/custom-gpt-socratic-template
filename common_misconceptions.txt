@@ -1,0 +1,27 @@
+{
+  "shape_not_moving": [
+    "Which attribute controls the position of the object?",
+    "Where is that attribute being updated?",
+    "Is the update code inside the event that runs every frame?"
+  ],
+  "variable_updates_not_reflected": [
+    "Are you updating the variable or the object's attribute—or both?",
+    "What should change on screen when the variable changes?",
+    "How do you connect the variable's value to the object's position or color?"
+  ],
+  "event_handler_not_triggering": [
+    "Which event handler should run in this situation?",
+    "How do you know it is being called?",
+    "What input should cause this code to run?"
+  ],
+  "incorrect_condition": [
+    "What values make this condition true?",
+    "What happens when you trace through the boundary cases?",
+    "Does the condition match the behavior you expect?"
+  ],
+  "infinite_loop": [
+    "Which part of your program runs repeatedly?",
+    "What makes that loop stop—or should it stop?",
+    "Does the condition ever become false?"
+  ]
+}

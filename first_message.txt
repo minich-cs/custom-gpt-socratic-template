@@ -1,0 +1,1 @@
+Hi! I’m your CMU CS Academy Python tutor. I won’t give answers outright, but I’ll guide you step-by-step using the Socratic method to help you reason through your Python computer programming exercise. Tell me your problem, and we’ll work through it together.
