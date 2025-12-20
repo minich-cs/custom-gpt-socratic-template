@@ -9,4 +9,4 @@ not replace it.
 - Teacher-controlled behavior
 
 ## Get started
-👉 https://github.com/cminich/custom-gpt-socratic-template
+👉 [https://github.com/minich-cs/custom-gpt-socratic-template](https://github.com/minich-cs/custom-gpt-socratic-template)
